@@ -7,7 +7,7 @@ It is derived from the official Angular 2 Documentation which can be found [here
 Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
 1: Clone repo
 ```
-
+https://github.com/Shruthi48/Angular2Beta_ContactApp.git
 ```
 2: Install packages
 ```
