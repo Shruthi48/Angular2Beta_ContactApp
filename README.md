@@ -1,13 +1,13 @@
-# Angular 2 Beta Boilerplate
+# Angular 2 Beta Contact App
 
 ## Description
-This repository acts as a very simple Angular 2 Beta Boilerplate with which you can get started developing Angular 2 immediately.
+This repository acts as a very simple Angular 2 Beta Contact App with which poses two-way data binding,forms,http GET and Post ,form validation,routing etc
 It is derived from the official Angular 2 Documentation which can be found [here](https://angular.io/docs/ts/latest/quickstart.html).
 ## Usage
 Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
 1: Clone repo
 ```
-git clone https://github.com/mschwarzmueller/angular-2-beta-boilerplate.git
+
 ```
 2: Install packages
 ```
